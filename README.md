@@ -1,25 +1,66 @@
-# Bus Pass Management System Using PHP and MySQL
+# 🚌 Bus Pass Management System (BUSPASSMS)
 
-## How to Run the Bus Pass Management System
+## 📌 Project Overview
+The Bus Pass Management System is a web-based application developed using PHP and MySQL.  
+It helps manage bus pass applications, approvals, and user details efficiently.
 
-1. Download the zip file.
-2. Extract the file and copy the `buspassms` folder.
-3. Paste inside the root directory:
-   - For XAMPP: `xampp/htdocs`
-   - For WAMP: `wamp/www`
-   - For LAMP: `var/www/html`
-4. Open PHPMyAdmin [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
-5. Create a database with the name `buspassdb`.
-6. Import the `buspassdb.sql` file (given inside the zip package in the `SQL file` folder).
-7. Run the script [http://localhost/buspassms](http://localhost/buspassms).
+---
 
-## Admin Credentials
+## 🚀 Features
+- User Registration & Login
+- Apply for Bus Pass
+- Admin Dashboard
+- Manage Categories
+- View & Download Pass
+- Contact & About Pages
 
-- **Username:** admin
-- **Password:** Test@123
+---
 
-## Pass Number
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+- Server: XAMPP (Apache)
 
-- 681924385
+---
 
-You can also create a new pass.
+## 📂 Project Structure
+buspassms/ │── admin/ │── css/ │── js/ │── images/ │── includes/ │── SQL File/ │── index.php │── about.php │── contact.php │── README.md
+
+---
+
+## ⚙️ Installation (Local Setup)
+
+1. Install XAMPP
+2. Copy project to:C:\xampp\htdocs\
+3. Start Apache & MySQL
+4. Open browser:http://localhost/buspassms
+
+---
+
+## 🛢️ Database Setup
+1. Open phpMyAdmin
+2. Create a database
+3. Import the `.sql` file from: SQL File/
+
+---
+
+## 🌐 Deployment
+You can deploy this project using free hosting like:
+- InfinityFree
+- 000WebHost
+
+---
+
+## 📸 Screenshots
+(Add screenshots here)
+
+---
+
+## 👩‍💻 Author
+- Mahima
+
+---
+
+## 📄 License
+This project is for educational purposes.
