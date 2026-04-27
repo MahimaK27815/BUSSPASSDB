@@ -51,14 +51,8 @@ You can deploy this project using free hosting like:
 - 000WebHost
 
 ---
-
-## 📸 Screenshots
-(Add screenshots here)
-
----
-
 ## 👩‍💻 Author
-- Mahima
+- Mahima K
 
 ---
 
